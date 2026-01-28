@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Naveed</h1>
-<h3 align="center">Aspiring Software Engineer diving deep into React Native, Machine Learning, and Computer Vision. I love building cross-platform apps, contributing to open-source, and exploring new technologies. 🚀📱🤖</h3>
+<h3 align="center">Aspiring Software Engineer diving deep into React Native, Machine Learning, and Computer Vision. I love building cross-platform apps, contributing to open-source, and exploring new technologies. 🤖</h3>
 <h2 align="center">Portfolio</h2>
 <a href="https://abdullah-personalportfolio.vercel.app" target="_blank">
   🔗 Visit My Portfolio
 </a>
-<hr>
-<hr>
 
 <p align="left"> 
   <a href="https://x.com/chabdullahnaveed0" target="blank">
