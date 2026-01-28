@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullah Naveed</h1>
 <h3 align="center">Aspiring Software Engineer diving deep into React Native, Machine Learning, and Computer Vision. I love building cross-platform apps, contributing to open-source, and exploring new technologies. 🚀📱🤖</h3>
 <h2 align="center">Portfolio</h2>
-<h3 align="center"> <a href="👉 abdullah-personalportfolio.vercel.app" target="blank"></a> 
+<a href="https://abdullah-personalportfolio.vercel.app" target="_blank">
+  🔗 Visit My Portfolio
+</a>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=AbdullahNaveeed&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahNaveeed" /> 
 </p>
