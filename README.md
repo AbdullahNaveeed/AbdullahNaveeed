@@ -4,17 +4,8 @@
 <a href="https://abdullah-personalportfolio.vercel.app" target="_blank">
   🔗 Visit My Portfolio
 </a>
-</hr>
-</hr>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=AbdullahNaveeed&label=Profile%20views&color=0e75b6&style=flat" alt="AbdullahNaveeed" /> 
-</p>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AbdullahNaveeed" alt="GitHub Trophies" />
-  </a> 
-</p>
+<hr>
+<hr>
 
 <p align="left"> 
   <a href="https://x.com/chabdullahnaveed0" target="blank">
