@@ -165,7 +165,7 @@
 </p>
 
 <p align="center">
-  <a href="https://codepen.io/Saqib-Ali-Butt" target="_blank">
+  <a href="https://codepen.io/abdullahnaveed786" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
   <a href="https://dev.to/abdullahnaveed786" target="_blank">
