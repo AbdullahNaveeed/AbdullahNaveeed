@@ -11,9 +11,9 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=AbdullahNaveeed&label=Profile%20views&color=0e75b6&style=flat-alt" alt="Profile views" />
-  <a href="https://github.com/AbdullahNaveeed?tab=followers">
-    <img src="https://img.shields.io/github/followers/AbdullahNaveeed?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=abdullahnaveed786&label=Profile%20views&color=0e75b6&style=flat-alt" alt="Profile views" />
+  <a href="https://github.com/abdullahnaveed786?tab=followers">
+    <img src="https://img.shields.io/github/followers/abdullahnaveed786?label=Followers&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://x.com/ChAbdullahNaved">
     <img src="https://img.shields.io/twitter/follow/ChAbdullahNaved?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
@@ -36,7 +36,7 @@
 - 💡 Strong foundation in **Python, JavaScript, TypeScript, C/C++** with extensive experience in **OOP, DSA, and Software Engineering**
 - 🌐 Visit my **[Portfolio Website](https://abdullah-personalportfolio.vercel.app/)** to see my latest work
 - 👯 Open to collaborating on **open-source projects** in cross-platform development, AI/ML, and web technologies
-- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/AbdullahNaveeed)**
+- 👨‍💻 All of my projects are available on **[GitHub](https://github.com/abdullahnaveed786)**
 - 💬 Ask me about: **React Native, React.js, Flutter, Next.js, Python, JavaScript, TypeScript, C++, Machine Learning, Firebase, SQL**
 - 📫 Reach me at **[abdullahnaveed5547@gmail.com](mailto:abdullahnaveed5547@gmail.com)**
 - ⚡ Fun fact: **I love building AI-powered applications that solve real-world problems!**
@@ -49,18 +49,18 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Eco Scout](https://github.com/AbdullahNaveeed/FYP_EcoScout_Code)** | Smart vehicle littering and smoke emission detection system using computer vision | Python, Computer Vision, Deep Learning, YOLOv8 |
-| **[Replicate Nike Website ](https://github.com/AbdullahNaveeed/Nike-clone)** | Nike Clone Using React.js and Tailwind CSS This project is a Nike website clone built using React.js and Tailwind CSS |
-| **[OCR Dashboard](https://github.com/AbdullahNaveeed/OCR-to-TEXT-in-Python)** | Optical Character Recognition dashboard for text extraction from images | Python, Computer Vision, OCR, Tesseract |
-| **[DevPeaks Restaurant Website](https://github.com/AbdullahNaveeed/DP_Restaurant)** | Modern Web Design and Full Backend with supabase Database attched and also have an admin panel to apply CRUD Operationw |
+| **[Eco Scout](https://github.com/abdullahnaveed786/FYP_EcoScout_Code)** | Smart vehicle littering and smoke emission detection system using computer vision | Python, Computer Vision, Deep Learning, YOLOv8 |
+| **[Replicate Nike Website ](https://github.com/abdullahnaveed786/Nike-clone)** | Nike Clone Using React.js and Tailwind CSS This project is a Nike website clone built using React.js and Tailwind CSS |
+| **[OCR Dashboard](https://github.com/abdullahnaveed786/OCR-to-TEXT-in-Python)** | Optical Character Recognition dashboard for text extraction from images | Python, Computer Vision, OCR, Tesseract |
+| **[DevPeaks Restaurant Website](https://github.com/abdullahnaveed786/DP_Restaurant)** | Modern Web Design and Full Backend with supabase Database attched and also have an admin panel to apply CRUD Operationw |
 | **[Moshify](https://github.com/saqibb786/Moshify)** | Modern cloud hosting platform landing page with responsive design | HTML5, CSS3, JavaScript, Responsive Design |
-| **[Portfolio Website](https://github.com/AbdullahNaveeed/abdullah-personalportfolio)** | Personal portfolio showcasing projects and skills with modern UI/UX | React, Vercel, Modern UI/UX |
+| **[Portfolio Website](https://github.com/abdullahnaveed786/abdullah-personalportfolio)** | Personal portfolio showcasing projects and skills with modern UI/UX | React, Vercel, Modern UI/UX |
 
 </div>
 
 <div align="center">
   
-### 🔗 [View All Projects →](https://github.com/AbdullahNaveeed?tab=repositories)
+### 🔗 [View All Projects →](https://github.com/abdullahnaveed786?tab=repositories)
 
 </div>
 
@@ -130,16 +130,16 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdullahNaveeed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahNaveeed&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullahnaveed786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahnaveed786&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNaveeed&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahnaveed786&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahNaveeed&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahnaveed786&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
 </div>
 
 ---
@@ -150,7 +150,7 @@
   <a href="https://abdullah-personalportfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/chabdullahnaveed/" target="_blank">
+  <a href="https://www..com/in/abdullahnaveed786/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/ChAbdullahNaved" target="_blank">
@@ -159,7 +159,7 @@
   <a href="mailto:abdullahnaveed5547@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/AbdullahNaveeed" target="_blank">
+  <a href="https://github.com/abdullahnaveed786" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
@@ -168,13 +168,13 @@
   <a href="https://codepen.io/Saqib-Ali-Butt" target="_blank">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
-  <a href="https://dev.to/chabdullahnaveed0" target="_blank">
+  <a href="https://dev.to/abdullahnaveed786" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
-  <a href="https://stackoverflow.com/users/31150656/abdullah-naveed" target="_blank">
+  <a href="https://stackoverflow.com/users/31150656/abdullahnaveed786" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="https://codepen.io/chabdullahnaveed0" target="_blank">
+  <a href="https://codepen.io/abdullahnaveed786" target="_blank">
     <img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" />
   </a>
 </p>
