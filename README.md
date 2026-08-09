@@ -7,7 +7,7 @@
 Computer Science graduate building practical, production-oriented software and AI systems — from computer vision pipelines to full-stack web applications.
 
 <p>
-  <a href="https://abdullah-personalportfolio.vercel.app/" target="_blank">
+  <a href="https://abdullahnaveeddev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="mailto:abdullahnaveed.dev@gmail.com">
@@ -52,7 +52,7 @@ CGPA: **3.70**
 | **[FacultyPass AI](https://github.com/abdullahnaveed786/FacultyPass_AI)** | AI-powered faculty attendance and access-control system using multi-pose face recognition, vector similarity search, and Redis-based attendance state management. | Python, FastAPI, React, Tailwind CSS, InsightFace, ONNX Runtime, PostgreSQL, pgvector, Redis, JWT, Docker |
 | **[OCR Dashboard](https://github.com/abdullahnaveed786/OCR-to-TEXT-in-Python)** | Dashboard for extracting text from images using optical character recognition. | Python, Tesseract, Computer Vision |
 | **[DevPeaks Restaurant Website](https://github.com/abdullahnaveed786/DP_Restaurant)** | Full-stack restaurant website with a Supabase-backed database and an admin panel for CRUD operations. | React, Supabase, Full-Stack |
-| **[Portfolio Website](https://github.com/abdullahnaveed786/abdullah-personalportfolio)** | Personal portfolio site showcasing projects and skills. | React, Vercel |
+| **[Portfolio Website](https://github.com/abdullahnaveed786/Abdullah_portfolio)** | Personal portfolio site showcasing projects and skills. | React, Vercel |
 
 </div>
 
@@ -153,7 +153,7 @@ CGPA: **3.70**
 ## Connect With Me
 
 <p align="center">
-  <a href="https://abdullah-personalportfolio.vercel.app/" target="_blank">
+  <a href="https://abdullahnaveeddev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/abdullahnaveed786" target="_blank">
