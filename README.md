@@ -31,14 +31,14 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer Science Student** at UCP (University of Central Punjab)
+- 🎓 **Computer Science Graduate** at UCP (University of Central Punjab)
 - 📚 Advancing my expertise in **AI, Machine Learning, Deep Learning, and Computer Vision**
 - 💡 Strong foundation in **Python, JavaScript, TypeScript, C/C++** with extensive experience in **OOP, DSA, and Software Engineering**
 - 🌐 Visit my **[Portfolio Website](https://abdullah-personalportfolio.vercel.app/)** to see my latest work
 - 👯 Open to collaborating on **open-source projects** in cross-platform development, AI/ML, and web technologies
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/abdullahnaveed786)**
 - 💬 Ask me about: **React Native, React.js, Flutter, Next.js, Python, JavaScript, TypeScript, C++, Machine Learning, Firebase, SQL**
-- 📫 Reach me at **[abdullahnaveed5547@gmail.com](mailto:abdullahnaveed5547@gmail.com)**
+- 📫 Reach me at **[abdullahnaveed.dev@gmail.com](mailto:abdullahnaveed.dev@gmail.com)**
 - ⚡ Fun fact: **I love building AI-powered applications that solve real-world problems!**
 
 ---
@@ -50,10 +50,9 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Eco Scout](https://github.com/abdullahnaveed786/FYP_EcoScout_Code)** | Smart vehicle littering and smoke emission detection system using computer vision | Python, Computer Vision, Deep Learning, YOLOv8 |
-| **[Replicate Nike Website ](https://github.com/abdullahnaveed786/Nike-clone)** | Nike Clone Using React.js and Tailwind CSS This project is a Nike website clone built using React.js and Tailwind CSS |
+| **[Faculty Pass AI ](https://github.com/abdullahnaveed786/FacultyPass_AI)** |AI-powered faculty attendance and access control system using multi-pose face recognition, pgvector similarity search, Redis state management, and FastAPI | Python, FastAPI, React, Tailwind CSS, Computer Vision, Deep Learning, InsightFace, ONNX Runtime, PostgreSQL, pgvector, Redis, JWT, Docker |
 | **[OCR Dashboard](https://github.com/abdullahnaveed786/OCR-to-TEXT-in-Python)** | Optical Character Recognition dashboard for text extraction from images | Python, Computer Vision, OCR, Tesseract |
-| **[DevPeaks Restaurant Website](https://github.com/abdullahnaveed786/DP_Restaurant)** | Modern Web Design and Full Backend with supabase Database attched and also have an admin panel to apply CRUD Operationw |
-| **[Moshify](https://github.com/saqibb786/Moshify)** | Modern cloud hosting platform landing page with responsive design | HTML5, CSS3, JavaScript, Responsive Design |
+| **[DevPeaks Restaurant Website](https://github.com/abdullahnaveed786/DP_Restaurant)** | Modern Web Design and Full Backend with supabase Database attched and also have an admin panel to apply CRUD Operations |
 | **[Portfolio Website](https://github.com/abdullahnaveed786/abdullah-personalportfolio)** | Personal portfolio showcasing projects and skills with modern UI/UX | React, Vercel, Modern UI/UX |
 
 </div>
