@@ -137,6 +137,15 @@ CGPA: **3.70**
   <img height="165em" src="https://github-stats-extended.vercel.app/api?username=abdullahnaveed786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
   <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdullahnaveed786&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdullahnaveed786&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahnaveed786&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Activity Graph" width="90%" />
+</div>
+
 ---
 
 ## Connect With Me
@@ -158,7 +167,6 @@ CGPA: **3.70**
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
 
 ---
 
