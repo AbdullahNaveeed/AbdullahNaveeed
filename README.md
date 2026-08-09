@@ -141,7 +141,7 @@ CGPA: **3.70**
 <div align="center">
 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abdullahnaveed786&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=550&card_height=230" alt="GitHub Streak" /></a>
-  <img src="[https://streak-stats.demolab.com?user=abdullahnaveed786&theme=tokyonight&hide_border=false](https://streak-stats.demolab.com?user=abdullahnaveed786&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=550&card_height=230)" alt="GitHub Streak Stats" />
+
 </div>
 
 <div align="center">
